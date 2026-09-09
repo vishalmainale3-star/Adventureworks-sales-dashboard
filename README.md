@@ -47,4 +47,7 @@
 - Dashboard Creation – Combined the visuals into an interactive Power BI dashboard with slicers and filters.
 - Insights & Analysis – Analyzed sales trends, profitability, product performance, customer performance, and regional performance.
 
+## Dashboard
+<img width="1422" height="792" alt="image" src="https://github.com/user-attachments/assets/a415813b-1322-4030-8214-2a56a344b64b" />
+
 
