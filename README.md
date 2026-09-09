@@ -34,4 +34,6 @@
 - Build additional KPIs/Charts for performance by Product, Customer, and Region.
 - Create an additional Dashboard based on the business requirements.
 
+- dashboard interaction <a href="https://github.com/vishalmainale3-star/Adventureworks-sales-dashboard/blob/main/Dashboard%20of%20av.png">View dashboard</a>
+
 
