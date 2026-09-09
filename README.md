@@ -36,4 +36,15 @@
 
 - dashboard interaction <a href="https://github.com/vishalmainale3-star/Adventureworks-sales-dashboard/blob/main/Dashboard%20of%20av.png">View dashboard</a>
 
+## Process
+- Data Loading – Loaded the Adventure Works datasets into Power BI.
+- Data Cleaning & Transformation – Cleaned and transformed the data using Power Query.
+- Fact Table Preparation – Combined the required sales tables using Union.
+- Dimension Tables – Prepared Customer, Product, Date, and Sales Territory dimension tables.
+- Data Modelling – Created relationships between the Sales fact table and dimension tables using appropriate keys.
+- DAX Calculations – Created measures for Total Sales, Production Cost, Profit, Orders, and other required KPIs.
+- Visualizations – Created charts and KPIs to analyze sales by month, year, quarter, product, customer, and territory.
+- Dashboard Creation – Combined the visuals into an interactive Power BI dashboard with slicers and filters.
+- Insights & Analysis – Analyzed sales trends, profitability, product performance, customer performance, and regional performance.
+
 
