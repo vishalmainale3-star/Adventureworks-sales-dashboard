@@ -14,15 +14,15 @@
 - Lookup Product Name from the Product table into the Sales table.
 - Lookup Customer Full Name from the Customer table into the Sales table.
 - Create Date fields from the Order Date Key:
-  Year
-  Month Number
-  Month Name
-  Quarter (Q1, Q2, Q3, Q4)
-  Year-Month (YYYY-MM)
-  Weekday Number
-  Weekday Name
-  Financial Month
-  Financial Quarter
+  Year,
+  Month Number,
+  Month Name,
+  Quarter (Q1, Q2, Q3, Q4),
+  Year-Month (YYYY-MM),
+  Weekday Number,
+  Weekday Name,
+  Financial Month,
+  Financial Quarter,
 - Calculate Sales Amount using Unit Price, Order Quantity, and Unit Discount.
 - Calculate Production Cost using Unit Cost and Order Quantity.
 - Calculate Profit.
