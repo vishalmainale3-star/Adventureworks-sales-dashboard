@@ -50,4 +50,13 @@
 ## Dashboard
 <img width="1422" height="792" alt="image" src="https://github.com/user-attachments/assets/a415813b-1322-4030-8214-2a56a344b64b" />
 
+## Project Insights
+- Sales Trend: Identified monthly and yearly sales trends to understand periods of high and low sales performance.
+- Product Performance: Identified top-performing products based on sales and profitability.
+- Customer & Territory Analysis: Identified key customers and high-performing sales territories contributing to overall revenue.
+- Profitability: Compared sales amount with production cost to evaluate profit performance and identify opportunities for cost reduction.
+
+## Final Conclusion
+- The dashboard provides a clear and interactive view of Adventure Works' sales performance, helping management understand trends, identify profitable products and  customers, evaluate regional performance, and make data-driven decisions to improve sales and profitability.
+
 
